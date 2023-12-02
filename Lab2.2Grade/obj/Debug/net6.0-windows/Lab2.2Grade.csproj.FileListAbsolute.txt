@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\bin\Debug\net6.0-windows\Lab2.2Grade.exe
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\bin\Debug\net6.0-windows\Lab2.2Grade.deps.json
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\bin\Debug\net6.0-windows\Lab2.2Grade.runtimeconfig.json
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\bin\Debug\net6.0-windows\Lab2.2Grade.dll
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\bin\Debug\net6.0-windows\Lab2.2Grade.pdb
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2._2Grade.Form1.resources
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.AssemblyInfo.cs
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.dll
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\refint\Lab2.2Grade.dll
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.pdb
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\Lab2.2Grade.genruntimeconfig.cache
+C:\Users\PC\Desktop\Real Editor\Finally\New folder\Lab2.2Grade\Lab2.2Grade\obj\Debug\net6.0-windows\ref\Lab2.2Grade.dll
